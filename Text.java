@@ -129,7 +129,7 @@ public class Text {
         b.recycle();
     }
 
-    /** The draw method for the square with the GL context */
+    /** The draw method for the text with the GL context */
     public void draw(GL10 gl) {
         // bind the previously generated texture
 

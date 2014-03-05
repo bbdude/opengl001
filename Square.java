@@ -18,7 +18,7 @@ import android.graphics.drawable.Drawable;
 import android.opengl.GLUtils;
 
 /**
- * @author impaler
+ * @author jacob
  *
  */
 public class Square {

@@ -10,7 +10,7 @@ import java.nio.FloatBuffer;
 import javax.microedition.khronos.opengles.GL10;
 
 /**
- * @author impaler
+ * @author jacob
  *
  */
 public class Triangle {

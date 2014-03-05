@@ -119,20 +119,3 @@ public class MainActivity extends Activity {
     	return false;
     }
 }
-/*
-public class example extends Activity {
-	static boolean isActive = false;
-
-	@Override
-	protected void onStart() {
-		super.onStart();
-		isActive = true;
-	}
-	@Override
-	protected void onStop() {
-		super.onStop();
-		isActive = false;
-    }
-}
-
-*/
